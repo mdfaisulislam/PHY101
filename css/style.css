@@ -1,0 +1,42 @@
+/*font start*/
+@font-face{
+    font-family: 'Poppins', sans-serif;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face{
+    font-family: 'Poppins', sans-serif;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+@font-face{
+    font-family: 'Poppins', sans-serif;
+    src: url(../fonts/Poppins-ExtraBold.ttf);
+}
+@font-face{
+    font-family: 'Monoton', cursive;
+    src: url(../fonts/Monoton-Regular.ttf);
+}
+/*font end*/
+/*common start*/
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: #000000;
+    background-color: #ffffff;
+}
+/*common end*/
+/*header start*/
+/*hero end*/
+/*thermometry start*/
+.thermometry{
+    padding: 35px 0;
+}
+.thermometry h1{
+    font-size: 45px;
+    font-weight: 600;
+}
+.thermometry1{}
+.thermometry1 p{
+    letter-spacing: 2px;
+}
+/*thermometry end*/

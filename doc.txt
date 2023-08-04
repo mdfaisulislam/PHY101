@@ -1,0 +1,214 @@
+Color:- 
+        #314e71 logo
+        #314e71 Button
+        # font
+        # h3
+
+Fonts:
+    font-family: 'Nosifer', cursive;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-weight: 600;
+    font-weight: 800;
+
+Section:
+        Margin(x-)
+
+-----------------------------------------------
+Menu/Header Section:{
+        Logo(Left-side)           Home, About, Skills, Services, Projects, Contact.(Right-side)
+}
+Hero/Banner Section:{
+        01{
+                Left-side: <h1>Your Next Innovation Partner.</h1>
+
+                        <p>I can help startups build products that make a difference.</p>
+
+                        <button>Contact Me</button>
+
+                Right-side: <img src="link">
+        }
+
+        02{
+                Left-side: <h1>Hi, I'am Alexa</h1>
+
+                        <h3>Frontend developer</h3>
+
+                        <p>High level experience in web design and development knowledge, producing quality work</p>
+
+                        <button>Contact Me</button>
+
+                Right-side: <img src="link">
+        }
+
+        03{
+                Left-side: <h3>Web Developer</h3>
+
+                <h1>Hi, I'm Faisul Islam From Bangladesh</h1>
+        }
+}
+About Section:{
+                <div>
+                    <h1>About Me</h1>
+                    <p>My Introduction</p>
+               </div>
+
+        01{
+                Left-side: <img src="links">
+
+        }
+
+        02{
+                Right-side: <h1>About Me</h1>
+
+                <h5>My introduction</h5>
+
+                <p>Web developer with extensive knowledge and years of experience, working in web technologies and UI / UX design, quality work.</P>
+
+                <div>
+                     <h1>03+</h1>
+                     <p>Years Experience</p>
+                </div>
+                <div>
+                     <h1>20+</h1>
+                     <p>Completed Projects</p>
+                </div>
+                <div>
+                     <h1>05+</h1>
+                     <p>Companies Worked</p>
+                </div>
+
+                <button>Download CV</button>
+                
+        }  
+}
+Skills:{
+        <div>
+             <h1>Skills</h1>
+             <p>My technical level</p>
+        </div>
+
+        <div>
+             <h1>Frontend Developer</h1>
+             <p>More than 4 years</p>
+
+             <p>HTML</p>
+             <p>CSS</p>
+             <p>JavaScript</p>
+             <p>JQuery</p>
+             <p>React</p>
+             <p>Bootstrap</p>
+        </div>
+        <div>
+             <h1>Backend Developer</h1>
+             <p>More than 4 years</p>
+
+             <p>PHP</p>
+             <p>Node Js</p>
+             <p>Firebase</p>
+             <p>Python</p>
+             <p></p>
+        </div>
+        <div>
+             <h1>Designer</h1>
+             <p>More than 4 years</p>
+
+             <p>Figma</p>
+             <p>Sketch</p>
+             <p>Photoshop</p>
+        </div>
+        
+}
+Qualification{
+              <div>
+                   <h1>Qualification</h1>
+                   <p>My personal journey</p>
+              </div>
+
+              Left-side: <div>
+                              <img src="">
+                              <h1>Education</h1>
+                         </div>
+
+              Right-side: <div>
+                              <img src="">
+                               <h1>work</h1>
+                          </div>
+}
+Services:{
+          <div>
+               <h1>Services</h1>
+               <p>What I offer</p>
+          </div>
+          <div>
+               <img src="">
+               <h1>UI/UX Designer</h1>
+               <button>View More →</button>
+          </div>
+          View More:<div>
+                         <h1>UI/UX Designer</h1>
+                         <p>I develop the user interface</p>
+                         <p>Web page development</p>
+                         <p>I create ux element interactions.</p>
+                         <p>I position your company brand</p>
+                    </div>
+}
+Projects/Portfolio:{
+                    <div>
+                         <h1>Portfolio</h1>
+                         <p>My recent work</p>
+                         <div>
+                              slider:
+                                     Left-side: <img src"links">
+
+                                     Right-side: <h1></h1>
+                                     <p></p>
+                                     <button>Demo →</button>
+                         </div>
+                    </div>
+}
+Post:{
+      <div>
+           Left-side: <h1>Do you have any new projects?</h1>
+                      <p>Contact me and create your dream projects</p>
+                      <button>Contact Me →</button>
+
+           Right-side: <img src="links">
+      </div>
+}
+Testimonial:{
+             <div>
+                  <h1>Testimonial</h1>
+                  <p>My clint saying</p>
+             </div>
+}
+Contact:{
+         <div>
+              <h1>Contact Me</h1>
+              <p>Get in touch</p>
+         </div>
+
+         Left-side: <h1>add-icon Call Me</h1>
+                    <p>015---0---0</p>
+
+                    <h1>add-icon Email</h1>
+                    <p>Demo@gmail.com</p>
+
+                    <h1>add-icon Location</h1>
+                    <p>demo,demo,demo</p>
+
+         Right-side: Form: Name Email
+                           Project
+                           Message
+                           <button>Send Message →</button>
+                    
+}
+Footer:{
+        Left-side: logo
+                   <p>Web Developer</p>
+
+        Middle-side: Links: Services, Portfolio, Contact Me
+
+        Right-side: Social Media Icons: Facebook, Instagram, Twitter, Youtube etc.
+}
